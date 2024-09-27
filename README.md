@@ -29,7 +29,7 @@
 - **[Parking Zone Monitoring System](https://github.com/brij0/License-Plate-analysis)**  
   Built a license plate recognition system using YOLOv8, achieving 90% accuracy on parking violations detection. Integrated the system with a vehicle database for real-time monitoring and violation alerts.
 
-- **[Study Permit Analysis](https://github.com/brij0/Power-BI-Canada-Study-Permit-analysis)**  
+- **[Study Permit Analysis](https://github.com/brij0/Study-Permit-analysis-project)**  
   Created an interactive Power BI dashboard to analyze 10 years of Canadian study permits and PR data. Visualized trends using Python, Pandas, DAX, and Google Maps API.
 
 ---
