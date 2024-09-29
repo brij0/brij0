@@ -22,6 +22,9 @@
 ---
 
 <h3 align="left">🚀 Projects:</h3>
+- **[University Course Calendar Automation](https://github.com/brij0/calendar-generator)**  
+  This was a weekend project to try my hands on LLaMA as part of a problem-solving approach. I tested the response time between running the LLM locally and using services like Groq Cloud. The system automatically extracts and adds academic events from course outlines to Outlook calendars.
+
 
 - **[Price Comparator App](https://github.com/brij0/Personal_app)**  
   Developed a Python web scraper for 5,000+ URLs, reducing scraping time by 60%. Integrated MySQL for data storage and Java for real-time price comparison. Added user authentication and a recommendation engine using OCR with Pytesseract.
